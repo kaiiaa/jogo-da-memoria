@@ -1,0 +1,38 @@
+[
+    {
+        "image": "chili.jpg",
+        "name": "chili"
+    },
+    {
+        "image": "grapes.jpg",
+        "name": "grapes"
+    },
+    {
+        "image": "lemon.jpg",
+        "name": "lemon"
+    },
+    {
+        "image": "orange.jpg",
+        "name": "orange"
+    },
+    {
+        "image": "pineapple.jpg",
+        "name": "pineapple"
+    },
+    {
+        "image": "strawberry.jpg",
+        "name": "strawberry"
+    },
+    {
+        "image": "tomato.jpg",
+        "name": "tomato"
+    },
+    {
+        "image": "watermelon.jpg",
+        "name": "watermelon"
+    },
+    {
+        "image": "cherries.jpg",
+        "name": "cherries"
+    }
+]

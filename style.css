@@ -1,7 +1,7 @@
 * {
     
 
-    cursor: url(assets/cursor2.png), default;
+    cursor: url(cursor2.png), default;
     scrollbar-color:var(--scrollbar-color);
   }
 
@@ -9,14 +9,14 @@
 body {
     min-height: 100vh;
     min-width: 100vw;
-    background-image: url(assets/decoracoes/bag.gif);
+    background-image: url(bag.gif);
     background-repeat: repeat;
     color: white;
   }
   .header{
     justify-content: center;
     margin-top: -50px;
-    background-image: url(assets/decoracoes/border\ 5.png);
+    background-image: url(border\ 5.png);
   }
   h1 {
     margin-top: 40px;
@@ -114,7 +114,7 @@ body {
 
   }
   .grid-container {
-    background-image: url(assets/decoracoes/bg2.gif);
+    background-image: url(bg2.gif);
     padding: 20px;
     width: 900px;
     margin-top: 0;
@@ -126,7 +126,7 @@ body {
 
     
     border: 60px solid transparent;
-    border-image: url(assets/decoracoes/border4.png) 200 200 round;
+    border-image: url(border4.png) 200 200 round;
   }
   
   .card {
@@ -137,7 +137,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: all 0.5s ease-in-out;
-    cursor: url(assets/cursor.png), default;
+    cursor: url(cursor.png), default;
   }
   
   .front-image {

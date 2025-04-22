@@ -7,7 +7,7 @@ let score = 0;
 
 document.querySelector(".score").textContent = score;
 
-fetch("./data/cards.json")
+fetch("cards.json")
   .then((res) => res.json())
   .then((data) => {
     cards = [...data, ...data];
@@ -292,7 +292,7 @@ function restart() {
             }
     
             // ]]>
-            const hoverSound = new Audio("assets/ddlc-select-sfx-101soundboards.mp3");
+            const hoverSound = new Audio("ddlc-select-sfx-101soundboards.mp3");
             hoverSound.volume = 100;
 
 
